@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a fourth year bioinformatics major at University of California, San Diego (UCSD). I plan to graduate in Spring 2023. After graduation, I plan to work at Medtronic, a medical device company. I am really interested in the intersection between medicine and technology, specifically software. In my free time, I enjoy travelling, spending time with my family, and playing board games with my friends. For places I have been to or would like to travel to, please click [here](https://github.com/nsyousef/CSE-110-SP23/blob/Favorite-Programming-Language/index.md#places-i-havewould-like-to-visit).
+I am a fourth year bioinformatics major at University of California, San Diego (UCSD). I plan to graduate in Spring 2023. After graduation, I plan to work at Medtronic, a medical device company. I am really interested in the intersection between medicine and technology, specifically software. In my free time, I enjoy spending time with my family, playing board games with my friends, and traveling. For places I have been to or would like to travel to, please click [here](https://github.com/nsyousef/CSE-110-SP23/blob/Favorite-Programming-Language/index.md#places-i-havewould-like-to-visit).
 
 ## Programming Languages I Know (in order of familiarity)
 1. [Python](https://www.python.org/)
@@ -41,7 +41,9 @@ I am a fourth year bioinformatics major at University of California, San Diego (
   * _Automated and executed exhaustive testing of the requirements_
   * _Collaborated with remote teams in India and provided status updates_
 
-## Places I have/would like to visit
+## Fun
+
+### Places I have/would like to visit
 - [x] The Bahamas
 - [x] Britain
 - [x] France
@@ -51,3 +53,12 @@ I am a fourth year bioinformatics major at University of California, San Diego (
 - [ ] Israel
 - [ ] Another planet : )
 
+## GitHub joke I once saw at Robotics club in high school:
+
+In case of fire:
+
+```
+git commit
+git push
+git out
+```
