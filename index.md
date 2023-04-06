@@ -1,6 +1,8 @@
 # Nicholas Yousefi
 
-![Image of myself](Nicholas_Yousefi.png)
+<picture>
+<img src='Nicholas_Yousefi.png' width=300>
+</picture>
 
 ## About Me
 
@@ -47,5 +49,5 @@ I am a fourth year bioinformatics major at University of California, San Diego (
 - [ ] Spain
 - [ ] Italy
 - [ ] Israel
-- [ ] Another planet
+- [ ] Another planet : )
 
