@@ -12,11 +12,32 @@ I am a fourth year bioinformatics major at University of California, San Diego (
 3. Java
 4. C++
 
+## Coursework
+* [Bioinformatics Algorithms](https://www.bioinformaticsalgorithms.org/)
+* Algorithms
+* Data Structures
+* Genome Diversity and Dynamics
+* Genetics
+* Molecular Basis of Human Disease
+* Human Physiology
+* Organic Chemistry
+* Molecular Biology
+* Linear Algebra
+* Multivariable Calculus
+* Physics with Lab
+
 ## Experience
-* Interned at Medtronic Diabetes on the Systems Engineering Team
-  * Managed system parameters for Common Core pump system, an insulin pump system for people with diabetes
-* Interned at ICU Medical as a Test Development Intern
-  * Wrote test cases for a touch-screen programmable ICU pump
+* Interned at **Medtronic Diabetes** on the Systems Engineering Team
+  * _Developed a parameter library for the Common Core System, a diabetes therapy system consisting of continuous glucose monitors, insulin pumps controlled by a smartphone app, and cloud services_
+  * _Led cross-functional reviews resolving discrepancies between system parameters, app UI prototypes and Enterprise Architect models_
+  * _Transferred system parameters document from Microsoft Excel to PTC Integrity_
+  * _Presented project and internship progress to senior leadership of Diabetes Operating Unit_
+* Interned at **ICU Medical** as a Test Development Intern
+  * _Studied the architecture of the Silver ICU Pump system, a touch-screen, programmable pump system designed to deliver drug therapies to hospital patients_
+  * _Updated existing test programs to meet new requirements_
+  * _Wrote new test cases for the pump system UI, using Pytest framework_
+  * _Automated and executed exhaustive testing of the requirements_
+  * _Collaborated with remote teams in India and provided status updates_
 
 ## Places I have/would like to visit
 - [x] The Bahamas
