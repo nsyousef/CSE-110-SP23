@@ -62,3 +62,7 @@ I am a fourth year bioinformatics major at University of California, San Diego (
 > git push
 > git out
 > ```
+
+### Bioinformatics and Software Development Memes
+
+[click here](memes.md)
