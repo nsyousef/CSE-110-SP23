@@ -1,7 +1,7 @@
 # Nicholas Yousefi
 
 <picture>
-<img src='Nicholas_Yousefi.png' width=300 style="border-radius: 10px">
+<img src='Nicholas_Yousefi.png' width=300>
 </picture>
 
 ## About Me
