@@ -6,9 +6,13 @@
 <img src='bioinformatics_meme.png' width=500>
 </picture>
 
+<br>
+
 <picture>
 <img src='bioinformatics_meme_2.jpg' width=500>
 </picture>
+
+<br>
 
 <picture>
 <img src='h_in_software_dev.jpg' width=500>
